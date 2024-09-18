@@ -1,5 +1,4 @@
 import React, { useState } from 'react';
-import Home from '../Pages/Home';
 
 
 const Booknow = () => {

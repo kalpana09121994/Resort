@@ -69,7 +69,8 @@ const handleChange = (e) => {
         <div className="relative">
             {/* Background Image */}
              
-        <img src='https://res.cloudinary.com/simplotel/image/upload/w_5000,h_3337/x_0,y_261,w_5000,h_2811,r_0,c_crop,q_80,fl_progressive/w_1650,c_fit,f_auto/jenneys-residency/Exterior_1,_Avinashi_Road_Hotels,_Coimbatore_Hotels,_Banquet_Halls_in_Coimbatore'/>
+        <img src='https://res.cloudinary.com/simplotel/image/upload/w_5000,h_3337/x_0,y_261,w_5000,h_2811,r_0,c_crop,q_80,fl_progressive/w_1650,c_fit,f_auto/jenneys-residency/Exterior_1,_Avinashi_Road_Hotels,_Coimbatore_Hotels,_Banquet_Halls_in_Coimbatore'
+        alt='resort frontview'/>
         {/*<button for booking>*/}
         </div>
         <br/>

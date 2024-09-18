@@ -19,7 +19,7 @@ const Menu = () => {
         <img
           key={index}
           src={src}
-          alt={`Image ${index + 1}`}
+          alt={`Menulist ${index + 1}`}
           className="w-1/4 h-auto object-cover rounded-lg shadow-md"
         />
       ))}

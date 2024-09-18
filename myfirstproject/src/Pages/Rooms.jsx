@@ -8,20 +8,19 @@ const Rooms = () => {
         <Navbar/>
         <h1 className="text-4xl font-bold text-center mb-5 p-3 font-serif italic">Rooms in RK resideny, Chennai</h1>
         <div className="flex gap-x-4 items-center">
-        <img
-          src="https://res.cloudinary.com/simplotel/image/upload/w_5000,h_3333/x_0,y_260,w_5000,h_2813,r_0,c_crop,q_80,fl_progressive/w_900,f_auto,c_fit/jenneys-residency-coimbatore/Jenneys-_NOV_49_-HDR_o0nthi"
-          alt="Image 1"
+        <img src="https://res.cloudinary.com/simplotel/image/upload/w_5000,h_3333/x_0,y_260,w_5000,h_2813,r_0,c_crop,q_80,fl_progressive/w_900,f_auto,c_fit/jenneys-residency-coimbatore/Jenneys-_NOV_49_-HDR_o0nthi"
+          alt="room picture1"
           className="w-1/3 object-cover"/>
         
         
         <img
           src="https://res.cloudinary.com/simplotel/image/upload/w_5000,h_3333/x_0,y_260,w_5000,h_2813,r_0,c_crop,q_80,fl_progressive/w_900,f_auto,c_fit/jenneys-residency-coimbatore/Jenneys-_NOV_66_-HDR_tmcmil"
-          alt="Image 2"
+          alt="room picture2"
           className="w-1/3 object-cover"
         />
         <img
           src="https://res.cloudinary.com/simplotel/image/upload/w_5000,h_3333/x_0,y_260,w_5000,h_2813,r_0,c_crop,q_80,fl_progressive/w_900,f_auto,c_fit/jenneys-residency-coimbatore/Jenneys-_NOV_20_-HDR_at1ga5"
-          alt="Image 3"
+          alt="room picture3"
           className="w-1/3 object-cover"
         />
       </div>

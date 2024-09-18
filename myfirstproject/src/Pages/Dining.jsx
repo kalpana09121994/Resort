@@ -69,7 +69,7 @@ const Dining = () => {
     <div className="w-1/2 bg-white-200">
     <img
           src="https://res.cloudinary.com/simplotel/image/upload/w_5000,h_3333/x_0,y_260,w_5000,h_2813,r_0,c_crop,q_80,fl_progressive/w_825,f_auto,c_fit/jenneys-residency-coimbatore/Urban_BBQ_0117-HDR_dijejn"
-          alt="Sample Image"
+          alt="Dining Area"
           className="w-full h-full object-cover"
         />
     </div>

@@ -19,7 +19,7 @@ const Spa = () => {
           {/* Image Section */}
         <div className="w-1/2 bg-gray-200">
         <img src='https://res.cloudinary.com/simplotel/image/upload/x_0,y_100,w_1920,h_1080,r_0,c_crop,q_80,fl_progressive/w_825,f_auto,c_fit/jenneys-residency/wellness-589774_1920_s9zukh'
-        alt="spa image"
+        alt='spaimage'
         className='w-full h-full object-cover '/>
         </div>
         <br/>
@@ -27,10 +27,10 @@ const Spa = () => {
       {/* Text Section */}
         <div className='w-1/2 p-8 flex items-center justify-center bg-gray-100'>
         <p className="text-xl font-medium  text-yellow-700">
-        Let your mind and muscles relax as we knead out your stress at our spa in Coimbatore. Our masseurs and masseuses are well trained to help you rejuvenate yourself and breathe a new life into you after a tiring day! We provide several types of massages and treatments that can help you unwind and restore you to your normal self!
+        Let your mind and muscles relax as we knead out your stress at our spa in Coimbatore. Our masseurs and masseuses are well trained to help you rejuvenate yourself and breathe a new life into you after a tiring day! We provide several types of massages and treatments that can help you unwind and restore you to your normal self!</p>
         <br/>
         <br/>
-         Timings:  10:00 AM - 8:00 PM</p>
+        <p> Timings:  10:00 AM - 8:00 PM</p>
          <br/>
          <br/>
          {/*button*/}

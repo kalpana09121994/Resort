@@ -9,8 +9,8 @@ import Contact from "./Pages/Contact"
 import Overview from './Pages/Overview'; // Example pages
 import Menu from './Pages/Menu';
 import Reservations from './Pages/Reservations';
-import Navbar from "./Component/Navbar";
-import DiningNavbar from "./Pages/DiningNavbar";
+//import Navbar from "./Component/Navbar";
+//import DiningNavbar from "./Pages/DiningNavbar";
 
 
 

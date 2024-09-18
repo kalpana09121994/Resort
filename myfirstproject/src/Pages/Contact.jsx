@@ -11,7 +11,7 @@ const Contact = () => {
       <div className="w-1/2 bg-gray-200">
         <img
           src="https://res.cloudinary.com/simplotel/image/upload/w_5000,h_3310/x_-2,y_233,w_5002,h_2813,r_0,c_crop,q_80,fl_progressive/w_825,f_auto,c_fit/jenneys-residency/Reception,_Avinashi_Road_Hotels,_Coimbatore_Hotels,_Banquet_Halls_in_Coimbatore"
-          alt="Sample Image"
+          alt="Resortlobby"
           className="w-full h-full object-cover"
         />
 

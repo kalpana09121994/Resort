@@ -18,7 +18,7 @@ const Gallery = () => {
           <div key={index} className="flex justify-center items-center">
             <img
               src={src}
-              alt={`Image ${index + 1}`}
+              alt={`resort gallery ${index + 1}`}
               className="w-50 h-50 object-cover rounded-lg"
             />
           </div>
